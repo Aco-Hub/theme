@@ -49,16 +49,16 @@
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Brakmar/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "29/11/2021", 
         "modificationDate" : "04/12/2021"
-    },
+    }
     {
         "author": "Aspette",
-        "name": "x darkOpacity - lightTactic mode",
+        "name": "x darkOpacity - darkTactic mode",
         "keyWords": "darkOpacity, Tactic Mode",
-        "version": "lightTactic",
+        "version": "darkTactic",
         "dofusVersion": "2.63",
-        "description": "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ lightOpacity tactic mode for darkOpacity",
-        "url": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/darkOpacity/lightTactic/darkOpacity.zip",
-        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/lightTacticPreview.png",
+        "description": "/!\\AVEC LE THÈME DÉJÀ INSTALLÉ/!\\ darkOpacity tactic mode for darkOpacity",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/darkOpacity/darkTactic/darkOpacity.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/catalogue/tacticMode/preview/darkTacticPreview.png",
         "creationDate": "09/04/2019",
         "modificationDate": "10/04/2021"
     },
